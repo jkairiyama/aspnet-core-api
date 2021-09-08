@@ -74,4 +74,3 @@ C:\Users\User\source\repos\my-books\my-books\bin\Debug\net5.0\Serilog.Sinks.Debu
 C:\Users\User\source\repos\my-books\my-books\bin\Debug\net5.0\Serilog.Sinks.File.dll
 C:\Users\User\source\repos\my-books\my-books\bin\Debug\net5.0\Serilog.Sinks.MSSqlServer.dll
 C:\Users\User\source\repos\my-books\my-books\bin\Debug\net5.0\Serilog.Sinks.PeriodicBatching.dll
-C:\Users\User\source\repos\my-books\my-books\obj\Debug\net5.0\my-books.csproj.AssemblyReference.cache
